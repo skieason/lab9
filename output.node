@@ -1,0 +1,35 @@
+nohup: ignoring input
+
+> comment@0.0.0 start /opt/bitnami/apache2/htdocs/lab9/comment
+> node ./bin/www
+
+[0mGET / [32m200 [0m7.283 ms - 1036[0m
+[0mGET /javascripts/app.js [32m200 [0m2.133 ms - 1551[0m
+[0mGET /comments [32m200 [0m17.959 ms - 844[0m
+[0mPUT /comments/56f18e8218adad974515cc0e/upvote [32m200 [0m10.752 ms - 66[0m
+[0mPUT /comments/56f18e8218adad974515cc0e/downvote [32m200 [0m2.727 ms - 66[0m
+[0mGET / [32m200 [0m0.657 ms - 1038[0m
+[0mPUT /comments/56f18e8218adad974515cc0e/downvote [0m- [0m- ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.657 ms - -[0m
+[0mGET /comments [36m304 [0m5.163 ms - -[0m
+[0mGET / [32m200 [0m3.708 ms - 1036[0m
+[0mGET /javascripts/app.js [36m304 [0m0.377 ms - -[0m
+[0mGET /comments [36m304 [0m3.367 ms - -[0m
+[0mPUT /comments/56f18e8218adad974515cc0e/upvote [32m200 [0m2.763 ms - 66[0m
+[0mPUT /comments/56f18e8218adad974515cc0e/upvote [32m200 [0m2.412 ms - 66[0m
+[0mPUT /comments/56f18b49f81816624447a23c/upvote [32m200 [0m1.786 ms - 69[0m
+[0mPUT /comments/56f18b49f81816624447a23c/upvote [32m200 [0m3.066 ms - 69[0m
+[0mPUT /comments/56f18b49f81816624447a23c/upvote [32m200 [0m2.167 ms - 69[0m
+[0mPUT /comments/56f18e8218adad974515cc0e/upvote [32m200 [0m2.727 ms - 66[0m
+[0mGET / [36m304 [0m0.305 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.501 ms - -[0m
+[0mGET /comments [32m200 [0m2.900 ms - 844[0m
+[0mGET / [32m200 [0m0.557 ms - 1037[0m
+[0mGET /javascripts/app.js [36m304 [0m0.320 ms - -[0m
+[0mGET /comments [36m304 [0m3.875 ms - -[0m
+[0mPUT /comments/56f18b49f81816624447a23c/downvote [32m200 [0m3.055 ms - 69[0m
+[0mPUT /comments/56f18b49f81816624447a23c/downvote [32m200 [0m3.551 ms - 69[0m
+[0mPUT /comments/56f18b49f81816624447a23c/downvote [32m200 [0m3.977 ms - 69[0m
+[0mPUT /comments/56f18e8218adad974515cc0e/downvote [32m200 [0m1.819 ms - 66[0m
+[0mPUT /comments/56f18e8218adad974515cc0e/downvote [32m200 [0m2.045 ms - 66[0m
+[0mPUT /comments/56f18e8218adad974515cc0e/downvote [32m200 [0m1.811 ms - 66[0m
